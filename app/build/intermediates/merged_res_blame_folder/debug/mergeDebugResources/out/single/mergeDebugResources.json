@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_search.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_icon_msg.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_icon_msg.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/layout_fragment_recents.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/layout/fragment_recents.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_bottom_nav.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_bottom_nav.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_call.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_call.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_call_btn.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_call_btn.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_section_header.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_section_header.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/layout_item_recent_call.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/layout/item_recent_call.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_search.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_recent.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_recent.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_search_bar.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_search_bar.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/layout_fragment_contacts.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/layout/fragment_contacts.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/layout_fragment_favorite.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_nav_dot.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_nav_dot.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/layout_item_keypad_button.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/layout/item_keypad_button.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_msg_btn.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_msg_btn.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_call_incoming.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_call_incoming.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_circle.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_circle.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_keypad.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_keypad.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_online_dot.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_online_dot.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_icon_call.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_icon_call.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_call_missed.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_call_missed.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_message.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_message.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_header_action.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_header_action.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/color_bottom_nav_color.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_contacts.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_contacts.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_call_outgoing.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_call_outgoing.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/layout_item_contact.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_chat.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/layout_item_favorite_contact.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/layout/item_favorite_contact.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_fab.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_fab.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_favorite.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contactappv1.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/layout_fragment_keypad.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/layout/fragment_keypad.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/xml_backup_rules.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/layout_dialog_add_favorite.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/layout/dialog_add_favorite.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_online_indicator.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_online_indicator.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_plus.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_top_menu.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_top_menu.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_bg_keypad_button.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/bg_keypad_button.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/layout_item_online_contact.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/layout/item_online_contact.xml"
+    },
+    {
+        "merged": "com.example.contactappv1.app-debug-37:/drawable_ic_avatar_placeholder.xml.flat",
+        "source": "com.example.contactappv1.app-main-39:/drawable/ic_avatar_placeholder.xml"
+    }
+]

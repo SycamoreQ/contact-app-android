@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen padding -->
+    <dimen name="screen_padding_horizontal">20dp</dimen>
+    <dimen name="screen_padding_top">16dp</dimen>
+
+    <!-- Avatar sizes -->
+    <dimen name="avatar_size_large">52dp</dimen>
+    <dimen name="avatar_size_medium">48dp</dimen>
+    <dimen name="avatar_size_small">40dp</dimen>
+    <dimen name="avatar_size_online">56dp</dimen>
+
+    <!-- Corner radii -->
+    <dimen name="radius_small">8dp</dimen>
+    <dimen name="radius_medium">12dp</dimen>
+    <dimen name="radius_large">16dp</dimen>
+    <dimen name="radius_pill">24dp</dimen>
+    <dimen name="radius_circle">100dp</dimen>
+
+    <!-- Spacing -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">12dp</dimen>
+    <dimen name="spacing_lg">16dp</dimen>
+    <dimen name="spacing_xl">20dp</dimen>
+    <dimen name="spacing_xxl">24dp</dimen>
+
+    <!-- Typography -->
+    <dimen name="text_headline">28sp</dimen>
+    <dimen name="text_title">18sp</dimen>
+    <dimen name="text_body">15sp</dimen>
+    <dimen name="text_caption">13sp</dimen>
+    <dimen name="text_small">11sp</dimen>
+
+    <!-- Search bar -->
+    <dimen name="search_bar_height">48dp</dimen>
+
+    <!-- Bottom nav -->
+    <dimen name="bottom_nav_height">64dp</dimen>
+
+    <!-- Keypad -->
+    <dimen name="keypad_button_size">72dp</dimen>
+    <dimen name="keypad_number_size">28sp</dimen>
+    <dimen name="keypad_letter_size">10sp</dimen>
+    <dimen name="keypad_display_size">32sp</dimen>
+    <dimen name="call_button_size">64dp</dimen>
+
+    <!-- Online indicator -->
+    <dimen name="online_dot_size">12dp</dimen>
+</resources>

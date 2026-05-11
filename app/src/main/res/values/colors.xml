@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ======= Core ======= -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ======= Brand / Accent ======= -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#4338CA</color>
+    <color name="primary_light">#EEF2FF</color>
+    <color name="primary_surface">#E0E7FF</color>
+
+    <!-- ======= Text ======= -->
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="text_disabled">#D1D5DB</color>
+
+    <!-- Aliases used by drawables -->
+    <color name="primary_text">#111827</color>
+    <color name="secondary_text">#6B7280</color>
+
+    <!-- ======= Backgrounds ======= -->
+    <color name="bg_screen">#FFFFFF</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_search">#F3F4F6</color>
+    <color name="bg_surface">#F9FAFB</color>
+    <color name="bg_elevated">#FFFFFF</color>
+
+    <!-- Alias used by bg_search.xml drawable -->
+    <color name="search_bg">#F3F4F6</color>
+
+    <!-- ======= Dividers / Borders ======= -->
+    <color name="divider">#F3F4F6</color>
+    <color name="divider_color">#E5E7EB</color>
+    <color name="border">#E5E7EB</color>
+
+    <!-- ======= Status ======= -->
+    <color name="online_green">#22C55E</color>
+    <color name="call_green">#16A34A</color>
+    <color name="call_red">#EF4444</color>
+    <color name="msg_blue">#3B82F6</color>
+
+    <!-- ======= Avatar palette (bg + text pairs) ======= -->
+    <color name="avatar_1">#EDE9FE</color>
+    <color name="avatar_1_text">#7C3AED</color>
+    <color name="avatar_2">#FCE7F3</color>
+    <color name="avatar_2_text">#DB2777</color>
+    <color name="avatar_3">#DCFCE7</color>
+    <color name="avatar_3_text">#16A34A</color>
+    <color name="avatar_4">#FEF3C7</color>
+    <color name="avatar_4_text">#D97706</color>
+    <color name="avatar_5">#DBEAFE</color>
+    <color name="avatar_5_text">#2563EB</color>
+    <color name="avatar_6">#FFE4E6</color>
+    <color name="avatar_6_text">#E11D48</color>
+    <color name="avatar_7">#CCFBF1</color>
+    <color name="avatar_7_text">#0D9488</color>
+
+    <!-- ======= Bottom Nav ======= -->
+    <color name="nav_active">#4F46E5</color>
+    <color name="nav_inactive">#9CA3AF</color>
+    <color name="nav_bg">#FFFFFF</color>
+
+    <!-- ======= Keypad ======= -->
+    <color name="keypad_key_bg">#F9FAFB</color>
+    <color name="keypad_key_pressed">#E5E7EB</color>
+    <color name="keypad_number">#111827</color>
+    <color name="keypad_letters">#9CA3AF</color>
+</resources>

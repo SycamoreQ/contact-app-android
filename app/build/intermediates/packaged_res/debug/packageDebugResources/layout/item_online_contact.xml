@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:paddingStart="@dimen/spacing_sm"
+    android:paddingEnd="@dimen/spacing_sm"
+    android:paddingTop="@dimen/spacing_xs"
+    android:paddingBottom="@dimen/spacing_xs">
+
+    <!-- Avatar with online indicator -->
+    <FrameLayout
+        android:layout_width="@dimen/avatar_size_online"
+        android:layout_height="@dimen/avatar_size_online">
+
+        <LinearLayout
+            android:id="@+id/llAvatar"
+            android:layout_width="@dimen/avatar_size_online"
+            android:layout_height="@dimen/avatar_size_online"
+            android:background="@drawable/bg_circle"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/tvInitial"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@color/primary"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="@dimen/online_dot_size"
+            android:layout_height="@dimen/online_dot_size"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="2dp"
+            android:background="@drawable/bg_online_dot"/>
+    </FrameLayout>
+
+    <!-- First name -->
+    <TextView
+        android:id="@+id/tvOnlineName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_primary"
+        android:textSize="@dimen/text_small"
+        android:layout_marginTop="@dimen/spacing_xs"
+        android:maxLines="1"
+        android:ellipsize="end"/>
+
+</LinearLayout>

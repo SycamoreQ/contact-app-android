@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.contactappv1.app-mergeDebugResources-35:/values-h480dp-v13/values-h480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/kaushikmuthukumar/.gradle/caches/9.0-milestone-1/transforms/01de6168df4f22c0c43a1e6607dd50ff/transformed/material-1.13.0/res/values-h480dp-v13/values-h480dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

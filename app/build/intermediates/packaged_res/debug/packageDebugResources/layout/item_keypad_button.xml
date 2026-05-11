@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llKeyContainer"
+    android:layout_width="@dimen/keypad_button_size"
+    android:layout_height="@dimen/keypad_button_size"
+    android:layout_marginStart="@dimen/spacing_md"
+    android:layout_marginEnd="@dimen/spacing_md"
+    android:background="@drawable/bg_keypad_button"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:focusable="true">
+
+    <TextView
+        android:id="@+id/tvKeyNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/keypad_number"
+        android:textSize="@dimen/keypad_number_size"
+        android:textStyle="bold"
+        android:text="1"/>
+
+    <TextView
+        android:id="@+id/tvKeyLetters"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/keypad_letters"
+        android:textSize="@dimen/keypad_letter_size"
+        android:letterSpacing="0.15"
+        android:visibility="invisible"/>
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_recents">Recents</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_keypad">Keypad</string>
+
+    <!-- Contacts Screen -->
+    <string name="contacts_title">Contacts</string>
+    <string name="search_hint">Search contacts…</string>
+    <string name="section_online">Online Now</string>
+    <string name="contact_count">%d Contacts</string>
+    <string name="online_count">%d Online</string>
+
+    <!-- Recents Screen -->
+    <string name="recents_title">Recents</string>
+    <string name="recents_empty">No recent calls</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites_title">Favorites</string>
+    <string name="favorites_empty">No favorites yet</string>
+
+    <!-- Keypad Screen -->
+    <string name="keypad_title">Keypad</string>
+    <string name="dial_hint">Enter a number</string>
+    <string name="clear">Clear</string>
+
+    <!-- Actions -->
+    <string name="action_call">Call</string>
+    <string name="action_message">Message</string>
+    <string name="action_add">Add contact</string>
+    <string name="action_search">Search</string>
+    <string name="action_add_favorite">Add favorite</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_profile_picture">Profile picture</string>
+    <string name="cd_online_status">Online status indicator</string>
+    <string name="cd_call_type">Call type indicator</string>
+    <string name="cd_call_button">Make a call</string>
+    <string name="cd_message_button">Send a message</string>
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- Section letter header -->
+    <TextView
+        android:id="@+id/tvLetterHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_muted"
+        android:textSize="@dimen/text_caption"
+        android:textStyle="bold"
+        android:paddingTop="@dimen/spacing_lg"
+        android:paddingBottom="@dimen/spacing_xs"
+        android:paddingStart="4dp"
+        android:visibility="gone"
+        android:letterSpacing="0.08"/>
+
+    <!-- Contact row -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingTop="@dimen/spacing_md"
+        android:paddingBottom="@dimen/spacing_md"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true">
+
+        <!-- Avatar circle with initial -->
+        <FrameLayout
+            android:layout_width="@dimen/avatar_size_medium"
+            android:layout_height="@dimen/avatar_size_medium">
+
+            <LinearLayout
+                android:id="@+id/llAvatar"
+                android:layout_width="@dimen/avatar_size_medium"
+                android:layout_height="@dimen/avatar_size_medium"
+                android:background="@drawable/bg_circle"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/tvInitial"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/primary"/>
+            </LinearLayout>
+
+            <!-- Online indicator -->
+            <View
+                android:id="@+id/vOnlineDot"
+                android:layout_width="@dimen/online_dot_size"
+                android:layout_height="@dimen/online_dot_size"
+                android:layout_gravity="bottom|end"
+                android:background="@drawable/bg_online_dot"
+                android:visibility="gone"/>
+        </FrameLayout>
+
+        <!-- Name + Phone -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginStart="@dimen/spacing_md">
+
+            <TextView
+                android:id="@+id/tvName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_primary"
+                android:textSize="@dimen/text_body"
+                android:textStyle="bold"
+                android:maxLines="1"
+                android:ellipsize="end"/>
+
+            <TextView
+                android:id="@+id/tvPhone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_secondary"
+                android:textSize="@dimen/text_caption"
+                android:layout_marginTop="2dp"
+                android:maxLines="1"/>
+        </LinearLayout>
+
+        <!-- Call action -->
+        <FrameLayout
+            android:id="@+id/btnCallContact"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginEnd="@dimen/spacing_sm"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_call"
+                app:tint="@color/call_green"
+                android:contentDescription="@string/action_call"/>
+        </FrameLayout>
+
+        <!-- Message action -->
+        <FrameLayout
+            android:id="@+id/btnMsgContact"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:focusable="true">
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_message"
+                app:tint="@color/msg_blue"
+                android:contentDescription="@string/action_message"/>
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

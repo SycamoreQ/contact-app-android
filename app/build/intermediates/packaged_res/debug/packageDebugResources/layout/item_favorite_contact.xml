@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="@dimen/spacing_md"
+    android:background="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true">
+
+    <!-- Avatar circle -->
+    <LinearLayout
+        android:id="@+id/llAvatarBgFav"
+        android:layout_width="@dimen/avatar_size_online"
+        android:layout_height="@dimen/avatar_size_online"
+        android:background="@drawable/bg_circle"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tvAvatarInitialsFav"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <!-- Name -->
+    <TextView
+        android:id="@+id/tvFavName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_primary"
+        android:textSize="@dimen/text_caption"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/spacing_sm"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:gravity="center"/>
+
+    <!-- Phone (subtitle) -->
+    <TextView
+        android:id="@+id/tvFavPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_muted"
+        android:textSize="@dimen/text_small"
+        android:layout_marginTop="2dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:gravity="center"/>
+
+</LinearLayout>
